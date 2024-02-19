@@ -4,7 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
 		
-      <class name="testing.TestNG_tests"/>
       <class name="testing.AmazonWebpageTest"/>
       <class name="testing.ExceptionHandling"/>
       
