@@ -6,6 +6,7 @@
       <class name="testing.DataDrivenTesting"/>
       <class name="testing.TestNG_tests"/>
       <class name="testing.AmazonWebpageTest"/>
+      <class name="testing.ExceptionHandling"/>
     </classes>
   </test> 
 </suite> 

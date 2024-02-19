@@ -23,7 +23,7 @@ public class ExceptionHandling {
 	public void test_search() throws InterruptedException {
 		
 		try {
-			WebElement box = driver.findElement(By.cssSelector("inut#search"));
+			WebElement box = driver.findElement(By.cssSelector("input#search"));
 			box.sendKeys("Special 26");
 			Thread.sleep(3000);
 		}
